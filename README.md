@@ -6,7 +6,7 @@
 * Navigate between months
 
 
-# Next Challenges
+# Next Challenge
 
 * Add new events to specific dates
 * Edit and delete existing events
